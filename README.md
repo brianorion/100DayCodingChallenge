@@ -8,7 +8,7 @@ I used the kivy module that was built for python software development. It was a 
 everywhere, 2) kivy was not a good choice as the documentation in my opinion wasn't coherent, and 3) I was not really good at programming. 
 
 This time, however, I am going to plan intensively, before starting my project. The planning I do before I start my project would not be considered towards the 100 day challenge.
-Also, I am planning to use React this time; thus, I need to understand how to write JS.
+Also, I am planning to use React Native this time; thus, I need to understand how to write JS.
 I will not be counting the time I used to learn JS into the 100 days challenge. 
 
 In the near future I would probably be blogging my progress as I recreate my app.
